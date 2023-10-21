@@ -1,6 +1,6 @@
 👋 Hello! I'm Agbede David, a passionate Software Quality Assurance Engineer.
 
-🧪 With over 2 years of hands-on experience in manual software testing and more than a year of expertise in automation testing, I'm dedicated to ensuring the highest quality in software development.
+🧪 Experienced QA Engineer with expertise in manual and automation testing. Proficient in the full saoftware development life cycle, specializing in designing, developing, and implementing multiple test cases and plans. Consistently demonstrates year-over-year improvements in test planning, execution, and UAT coordination. Adept in various testing types, including functional testing, regression testing, performance testing, user acceptance testing. Collaborative team player with a focus on aligning testing efforts with developers and project managers.
 
 🚀 Proficient in the full software development life cycle; passionate about enhancing product quality.
 *🤖 Automation Enthusiast: Leveraging tools like Cypress, Mocha, and Postman for efficient testing.
